@@ -35,5 +35,7 @@ C, Python, Asssembly (x86-64), Assembly (x86-16), GovnASM, GovnPorth (nope ещ�
 https://www.youtube.com/watch?v=9t-SPC7Tczc
 
 # Q: Гарик?
-Ассирийский
+Харламов.
+
+![изображение](https://github.com/user-attachments/assets/d1c35dff-66c5-41c2-8707-8c8b74ac5ff2)
 
