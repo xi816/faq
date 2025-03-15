@@ -37,3 +37,4 @@ https://www.youtube.com/watch?v=9t-SPC7Tczc
 # Q: Гарик?
 Ассирийский
 
+я ем много овощей
