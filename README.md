@@ -1,11 +1,11 @@
 # Q: Операционная система?
-Debian Linux. Раньше был Arch.
+Arch Linux. Раньше был Debian.
 
 # Q: Редактор кода/IDE?
 Emacs. Иногда Vim.
 
 # Q: DE/WM? 
-i3wm/twm
+herbstluftwm
 
 # Q: Эмулятор терминала?
 xterm
